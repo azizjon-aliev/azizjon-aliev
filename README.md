@@ -1,3 +1,4 @@
+<img width="100%" height="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1662581704~exp=1662582304~hmac=d4a15e8a87aeb23280cdfe67d76c3102b1d7efcd82ecd63353e91cd85c770165" />
 <h1 align="center">Hi 👋, I'm Azizjon</h1>
 <h3 align="center">A passionate full stack developer from Tajikistan</h3>
 
